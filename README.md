@@ -1,25 +1,25 @@
 # Dice Roll Game 🎲
 
-A simple Python console game where two players roll a dice for 10 rounds. The player with the most rounds won is declared the winner.
+A beginner-friendly Python notebook game where two players roll dice over 10 rounds. The player with the higher total score wins.
 
 ## 📝 Features
-- Simulates dice rolls using the `random` module
-- Automatic scoring for both players
-- Final winner announcement
+- Simulates 10 dice rolls per player
+- Uses Python’s `random` module
+- Tracks player scores and declares the winner
 
 ## 🚀 How to Run
 
 1. Clone this repository:
 
-git clone https://github.com/Aswathy-04/Dice_Roll-Game.git
+git clone https://github.com/Aswathy-04/Dice_Roll-game.git
 
-2. Navigate to the project folder and run:
-
-python dice_roll_game.py
+2. Open the notebook using Jupyter or Google Colab:
+- [Open in Colab](https://colab.research.google.com/github/Aswathy-04/Dice_Roll_Game/blob/main/Dice_Roll_game.ipynb)
 
 ## 💻 Technologies Used
 - Python 3
-- Random module
+- Jupyter Notebook
+- `random` module
 
 ## 🎯 Purpose
-This project was created as part of a Python training course on WhiteHat Jr.
+Built as a Python learning project during my training at WhiteHat Jr.
